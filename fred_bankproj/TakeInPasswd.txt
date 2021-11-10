@@ -1,0 +1,2 @@
+   public String hashingMethod(String password, byte[] salt) {
+    // return hash using SHA/Encryption + salt
